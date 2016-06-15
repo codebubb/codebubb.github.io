@@ -1,7 +1,4 @@
-# codebubb.github.io
+#Javascript Fundamentals
+###A course for a gentle, interactive introduction to JavaScript.
 
-## Some markdown code copy / pasting
-
-```python
-print "Hello World!"
-```
+This is the repository for the live version of the JS Fundamentals course.
