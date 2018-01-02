@@ -1,4 +1,4 @@
-#Javascript Fundamentals
-###A course for a gentle, interactive introduction to JavaScript.
+# Javascript Fundamentals
+## A course for a gentle, interactive introduction to JavaScript.
 
-This is the repository for the live version of the JS Fundamentals course.
+This is the repository for the live version of the JS Fundamentals course (http://codebubb.github.io).
